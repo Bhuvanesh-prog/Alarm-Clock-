@@ -4,7 +4,6 @@ min_value = 1
 max_value = 6
 
 roll_again = "yes"
-
 while inf(min_value,max_value) :
     if roll_again == "yes":
         print("rolling the dice")
